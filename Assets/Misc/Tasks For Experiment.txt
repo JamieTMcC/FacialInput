@@ -1,0 +1,5 @@
+1. Reduce Controls to forward,backwards,Turn left, turn right, shoot, interact(merge hold and activate)
+2. Add a movement based-portion, labrynth
+3. Add a control scheme set changer
+4. Continue UI to customise control schemes
+5. Add logging
